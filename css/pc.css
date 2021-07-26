@@ -1,0 +1,176 @@
+p{color:black;
+font-size:20px;
+line-height:30px;
+background-color:#8d040a;
+padding:20px;
+font-family:Quicksand}
+
+h1{color:#eba600;
+font-size:70px;
+margin:0 auto;
+font-family:Quicksand;
+width:400px;
+}
+
+h2,h3{color:#eba600;
+font-size:40px;
+margin:0 auto;
+text-align:center;
+font-family:Quicksand;
+width:400px;}
+
+
+
+.principal{ 
+width: 1500px; 
+margin:0 auto; 
+background-color:white;
+}
+
+.centrado {text-align:center;}
+
+nav ul{
+list-style:none;
+width:740px;
+background-color:white;
+text-transform:uppercase;
+display:block;
+margin-left:50px;
+margin-top:auto;
+overflow:auto;
+padding-bottom:
+4px}
+
+nav ul li {float:left;
+margin:10px;
+padding:10px;
+}
+
+a{color:brown;
+text-decoration:none;
+display:inline-block;
+padding:12px;
+font-family:Quicksand}
+
+ul li a:hover{color:#FF7933;}
+
+
+.blanco{background-color:white;padding:50px 50px}
+
+
+.viajes{
+ width: auto;
+ margin: 0 auto;
+ padding:50px 50px;
+ background-color:#8d040a;
+ margin-top:-70px
+ }
+ .viajes select{margin-left:549px}
+ 
+ .opciones{width:300px}
+ 
+ .info{padding: 100px 100px; background-color:gray}
+ 
+.info img{background-color:white; float:left; margin-top:25px}
+  
+.info p{background-color:white;}
+  
+body{background-image: url(../imagenes/papel.jpg);background-attachment:fixed;margin:0}
+    
+.imagen{padding: 5px 10px 5px 10px;
+margin: 130px;
+display:inline-block;
+width: 150px;
+text-align: center;}
+
+
+footer{background-color:#8d040a;padding:50px 50px}
+
+
+.titulo h1{float:left;background-color:white;width:720px}
+
+
+.principal2{background:url(../imagenes/roma-patron.jpg);background-attachment:fixed
+;width: 1500px; 
+margin:0 auto; 
+background-color:white;
+}
+
+
+
+.palacio ,.maria ,.castillo,.basilica,.coliseo{background-color:#8d040a;margin-top:60px;margin-bottom:60px;margin-left:300px; margin-right:200px;width:900px;height:340px}
+
+.palacio ol li ,.maria ol li ,.castillo ol li,.basilica ol li,.coliseo ol li {text-align:center;color:#eba600;font-family:Quicksand;list-style:none;font-size:20px;
+line-height:100px;}
+
+.mapa{float:left}
+
+.mapa2{float:right}
+
+.principal2 p{color:#eba600}
+
+.amarillo ul li {color:#eba600;font-size:20px;
+line-height:30px;
+background-color:#8d040a;
+padding:20px;
+font-family:Quicksand}
+
+.amarillo ul{background-color:#8d040a}
+
+.formu {background-color:#8d040a}
+
+.formu form div{background-color:#eba600;text-align:center;color:#8d040a;margin-left:300px;margin-right:300px;padding:40px;}
+
+.formu h2{text-align:center;margin: 0 auto; }
+
+
+.instagram{padding: 15px 40px;
+    background-image: url(../imagenes/instagram.png);
+    background-repeat: no-repeat;
+    background-position: 5px center;
+	}
+
+
+.facebook  {padding: 15px 40px;
+    background-image: url(../imagenes/facebook.png);
+    background-repeat: no-repeat;
+    background-position: 5px center;}
+
+
+.twitter  {padding: 15px 40px;
+    background-image: url(../imagenes/twitter.png);
+    background-repeat: no-repeat;
+    background-position: 5px center;}
+	
+.logos li a {
+    color: #eba600;text-decoration: none;
+    width: 110px;
+    display: inline-block;
+}
+
+.logos{list-style:none;}
+
+.logos li{display: inline-block;}
+
+.encargados li{color:#eba600;line-height:50px;font-size:25px;list-style:none;font-family:Quicksand}
+
+.menu2 {padding-left:445px}
+
+#turismo {text-align:center}
+
+.gracias{font-size:40px;border-bottom: 3px solid #8d040a;width:420px;}
+
+.aviso {color:#eba600;text-align:center;padding:50px;font-size:25px}
+
+.agradecimiento{padding:100px}
+
+#lugarprecio{background-color:white;padding-left:550px;padding-right:550px;}
+
+#navegacion li{
+	display:inline-block;
+	width:100px;
+}
+
+#menu{display:none;}
+
+#hamburguesa{display:none}

@@ -1,0 +1,130 @@
+.principal{ 
+width: 900px; 
+margin:0 auto; 
+background-color:white;
+
+}
+
+#menu{
+	background: url(../imagenes/menu.png) no-repeat;
+	width: 40px; 
+	height: 40px;
+	display:inline-block;
+	font-size:0;
+	margin-top:25px; 
+	margin-left:10px;
+}
+
+#hamburguesa{
+	display:block;
+	background:url(../imagenes/cerrar.png) no-repeat;
+	width: 60px;
+	height: 60px; 
+	font-size: 0} 
+
+
+#navegacion{display: none;}
+
+
+#navegacion:target{
+	display:block;
+	width:200px; 
+	margin-top:10px;
+	margin-left:0;
+	background-color:white}
+
+#navegacion li {padding:10px;
+margin:5px;}
+
+.menu2{display:none}
+
+#turismo{font-size:60px}
+
+#video {display:none}
+
+iframe{width:897px; height:500px;margin-top:20px}
+
+.viajes select{margin-left:135px;width:500px;height:30px}
+
+.blanco{font-size:40px;line-height:45px;text-align:center}
+
+.imagen{display:none}
+
+.viajes{background-color:#8d040a;padding:100px 70px;}
+
+.excursion .centrado{font-size:40px;margin-top:10px}
+
+#ciudad,#ciudadimg,#ciudadp{display:none}
+
+.info img {float:none;width:500px;height:350px;margin-left:100px}
+
+.info{background-color:white}
+
+.titulo h1 {float:right;color:#eba600;
+    font-size: 70px;
+    font-family: Quicksand;
+    width: 230px;
+    margin-top: 10px;
+    margin-right: 0;
+	background-color:none
+
+}
+
+#fundacion{font-size:60px}
+
+.info p {font-size:30px;line-height:45px}
+
+#hotel{font-size:60px}
+
+.mapa,.mapa2{width:650px;height:590px;float:none;margin-left:80px;margin-top:60px}
+
+.palacio ,.maria ,.castillo,.basilica,.coliseo{width:820px;height:1030px;margin-left:40px}
+
+.coliseo ol li{font-size:40px;margin-top:10px}
+
+.palacio ol li{font-size:40px;margin-top:10px}
+
+.maria ol li{font-size:40px;margin-top:10px}
+
+.castillo ol li{font-size:40px;margin-top:10px}
+
+.basilica ol li{font-size:40px;margin-top:10px}
+
+.principal2{ 
+width: 900px; 
+margin:0 auto; 
+background-color:white;
+background:none
+}
+
+#lugaresturisticos img{width:897px; height:500px;margin-top:20px}
+
+#lugarprecio{display:none}
+
+body{background-image:none}
+
+#festividadroma p{font-size:40px;line-height:45px}
+
+#festividadroma h2{font-size:60px}
+
+.amarillo h2{font-size:60px}
+
+.amarillo ul li{font-size:40px;line-height:45px}
+
+.logos li{font-size:20px}
+
+form span{font-size:30px;font-family:Quicksand}
+
+form{background-color:white}
+
+.formu form div{padding:80px;margin-left:150px;margin-right:150px;margin-top:15px;}
+
+#reserva{display:none}
+
+form input{width:400px;height:30px}
+
+.gracias{font-size:60px;width:700px;margin-left:50px;border-bottom:none}
+
+.aviso{margin-top:80px;font-size:45px;line-height:50px}
+
+
